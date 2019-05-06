@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<h2>What Can JavaScript Do?</h2>
+<h2>TIMMY CAN YOU OPEN THE LIGHT!?</h2>
 
-<p>JavaScript can change HTML attribute values.</p>
+<p>TIMMY OPEN THE GODDAMN LIGHT!!!</p>
 
-<p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
+<p>MAMA IS GOING TO SHOVE DOGFOOD DOWN YOUR UGLY MOUTHHOLE OF YOU DON'T OPEN THE LIGHT!!!</p>
 
 <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
 
