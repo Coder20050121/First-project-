@@ -2,7 +2,7 @@
 
 Its his first project
 
-His First
+His FIRST
 
 The start of something new
 
